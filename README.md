@@ -23,29 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Podcast rápido contando um pouco da história do universo cyberpunk.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa Gemini para roteirização;
+IA Generativa Suno Ai para criação da música de abertura;
+IA Generativa NotebookLM para criação das vozes;
+IA Generativa Adobe Podcast para edição;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o gemini para criar o roteiro do podcast. Sudo Ai ajudou a criar uma música no estilo correto e utilizei uma parte dessa música para a introdução do podcast, enquanto o Notebook LM fez a conversa de podcast a partir do roteiro criado, e o Adobe Podcast foi utilizado para juntar a música a conversa gerada. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O epsódio é uma contextualização e apresentação de curiosidades para quem ainda não sabe muito sobre o universo cyberpunk.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O projeto deixou claro que as IAs generativas podem ser utilizadas como grandes facilitadores para executar diversas tarefas.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
