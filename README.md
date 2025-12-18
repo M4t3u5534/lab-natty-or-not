@@ -37,6 +37,8 @@ Utilizei o gemini para criar o roteiro do podcast. Sudo Ai ajudou a criar uma m�
 ## 🚀 Resultados
 O epsódio é uma contextualização e apresentação de curiosidades para quem ainda não sabe muito sobre o universo cyberpunk.
 
+[Podcast_IAs-generativas.mp3](https://github.com/user-attachments/files/24238869/Podcast_IAs-generativas.mp3)
+
 ## 💭 Reflexão (Opcional)
 O projeto deixou claro que as IAs generativas podem ser utilizadas como grandes facilitadores para executar diversas tarefas.
 ```
